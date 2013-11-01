@@ -19,6 +19,13 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.0.1
+-------------
+
+_Released 2013-11-01_
+
+*	Tidied up code
+
 Version 1.0
 -----------
 _Released 2011-09-26_
